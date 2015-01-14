@@ -3,10 +3,6 @@
 
 [jmix:releaseTest] > jmix:droppableContent, jmix:accessControllableContent mixin
 
-[jnt:node2] > jnt:content, jmix:releaseTest
- - property1 (string)
- - property2 (string)
-
 [jnt:node3] > jnt:content, jmix:releaseTest
  - property1 (string)
  - property2 (string)
