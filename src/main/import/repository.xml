@@ -9,7 +9,7 @@
                    jcr:primaryType="jnt:module">
                 <sources jcr:mixinTypes="jmix:hasExternalProviderExtension jmix:sourceControl jmix:sourceControl"
                   jcr:primaryType="jnt:moduleVersionFolder"
-                  j:staticMountPointProviderKey="module-releaseTest-1.1-SNAPSHOT">
+                  j:staticMountPointProviderKey="module-releaseTest-1.2-SNAPSHOT">
                     <src jcr:primaryType="jnt:folder">
                         <main jcr:primaryType="jnt:folder">
                             <resources jcr:primaryType="jnt:folder">
