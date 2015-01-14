@@ -1,12 +1,17 @@
 <jmix = 'http://www.jahia.org/jahia/mix/1.0'>
 <jnt = 'http://www.jahia.org/jahia/nt/1.0'>
 
-[jmix:releaseTest] > jmix:droppableContent, jmix:accessControllableContent mixin  
-  
-[jnt:node1] > jnt:content, jmix:releaseTest
- - property1 (string)
- - property2 (string)
+[jmix:releaseTest] > jmix:droppableContent, jmix:accessControllableContent mixin
 
 [jnt:node2] > jnt:content, jmix:releaseTest
  - property1 (string)
  - property2 (string)
+
+[jnt:node3] > jnt:content, jmix:releaseTest
+ - property1 (string)
+ - property2 (string)
+
+[jnt:node4] > jnt:content, jmix:releaseTest
+ - property1 (string)
+ - property2 (string)
+
