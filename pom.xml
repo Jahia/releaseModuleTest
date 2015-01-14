@@ -79,7 +79,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>releaseTest</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>Jahia Release Test</name>
   <description>This is the custom module (Jahia Release Test) for running on a Digital Factory server.</description>
